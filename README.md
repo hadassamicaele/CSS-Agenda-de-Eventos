@@ -24,8 +24,8 @@ A proposta é criar uma página organizada, visualmente agradável e de fácil n
 
 🌐 Links do projeto
 
-- 📂 Repositório: "Acessar código-fonte" (LINK_DO_REPOSITORIO)
-- 💻 Página web: "Visualizar projeto" (LINK_DO_SITE)
+- 📂 Repositório: "Acessar código-fonte" (https://github.com/hadassamicaele/CSS-Agenda-de-Eventos)
+- 💻 Página web: "Visualizar projeto" (https://hadassamicaele.github.io/CSS-Agenda-de-Eventos/)
 
 ---
 
